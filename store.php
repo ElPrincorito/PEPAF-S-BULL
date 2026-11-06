@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Bull's Tropical Products</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1 class="site-heading text-center text-faded d-none d-lg-block">
+                <span class="site-heading-upper text-primary mb-3">All Tropical Products</span>
+                <span class="site-heading-lower">PEPAF'S BULL & ASSOCIATES BUSINESS</span>
+            </h1>
+        </header>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand text-uppercase fw-bold d-lg-none" href="index.html">Start Bootstrap</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="home.php">Home</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="about.php">About</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="products.php">Products</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="store.php">Store</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <section class="page-section cta">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-9 mx-auto">
+                        <div class="cta-inner bg-faded text-center rounded">
+                            <h2 class="section-heading mb-5">
+                                <span class="section-heading-upper">Come On In</span>
+                                <span class="section-heading-lower">We're Open</span>
+                            </h2>
+                            <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
+                                <li class="list-unstyled-item list-hours-item d-flex">
+                                    Sunday
+                                    <span class="ms-auto">Closed</span>
+                                </li>
+                                <li class="list-unstyled-item list-hours-item d-flex">
+                                    Monday
+                                    <span class="ms-auto">7:00 AM to 9:00 PM</span>
+                                </li>
+                                <li class="list-unstyled-item list-hours-item d-flex">
+                                    Tuesday
+                                    <span class="ms-auto">7:00 AM to 9:00 PM</span>
+                                </li>
+                                <li class="list-unstyled-item list-hours-item d-flex">
+                                    Wednesday
+                                    <span class="ms-auto">7:00 AM to 9:00 PM</span>
+                                </li>
+                                <li class="list-unstyled-item list-hours-item d-flex">
+                                    Thursday
+                                    <span class="ms-auto">7:00 AM to 9:00 PM</span>
+                                </li>
+                                <li class="list-unstyled-item list-hours-item d-flex">
+                                    Friday
+                                    <span class="ms-auto">7:00 AM to 9:00 PM</span>
+                                </li>
+                                <li class="list-unstyled-item list-hours-item d-flex">
+                                    Saturday
+                                    <span class="ms-auto">7:00 AM to 1:00 PM</span>
+                                </li>
+                            </ul>
+                            <!--<p class="address mb-5">
+                                <em>
+                                    <strong>1116 Orchard Street</strong>
+                                    <br />
+                                    Golden Valley, Minnesota
+                                </em>
+                            </p>-->
+                            <p class="mb-0">
+                                <small><em>Call and Write Anytime</em></small>
+                                <br />
+								<a href="tel:+2290150727558"><em>(+229) 01 5072-7558</em></a> <em>or</em>
+								<a href="tel:+2290161646159"><em>(+229) 01-6164-6159</em></a>
+								<br />
+								<a href="mailto:pepafsbull@gmail.com"><em>pepafsbull@gmail.com</em></a> <em>or</em>
+								<a href="mailto:pearson3adjovi@gmail.com"><em>pearson3adjovi@gmail.com</em></a>
+                            </p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--<section class="page-section about-heading">
+            <div class="container">
+                <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="assets/img/about.jpg" alt="..." />
+                <div class="about-heading-content">
+                    <div class="row">
+                        <div class="col-xl-9 col-lg-10 mx-auto">
+                            <div class="bg-faded rounded p-5">
+                                <h2 class="section-heading mb-4">
+                                    <span class="section-heading-upper">Quality products, healthy culture</span>
+                                    <span class="section-heading-lower">About Our products</span>
+                                </h2>
+                                <p>Since 2009 we, Abrove ADJOVI and associates, have made available to several regional and international partners rich and better quality products from artisanal farmers in various regions of Benin and West Africa. We are committed to exploring the sub-region, finding the best tropical products and bringing them back to you regardless of your position.</p>
+                                <p class="mb-0">
+                                    We guarantee that you will fall in love with our craftsmanship and the quality of our products from the moment you contact us until you come into possession of them. Join us to maximize your turnover.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>-->
+		<section class="page-section about-heading">
+            <div class="container">
+				<div class="container">
+					<!--<div class="container">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/magazin.jpg" alt="..." />
+					</div>
+					<br />-->
+					<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/magazin.jpg" alt="..." />
+				</div>	
+                <div class="about-heading-content">
+                    <div class="row">
+                        <div class="col-xl-9 col-lg-10 mx-auto">
+							<!--<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/magazin.jpg" alt="..." />-->
+                            <div class="bg-faded rounded p-5">
+                                <div class="text-center">
+									<h2 class="section-heading text-uppercase">Contact Us</h2>
+								</div>
+								<!--<div class="row mb-5">
+									<div class="col-md-4 text-center">
+										<p class="mb-4">
+											<span class="icon-room d-block h2 text-primary"></span>
+											<span>203 Fake St. Mountain View, San Francisco, California, USA</span>
+										</p>
+									</div>
+									<div class="col-md-4 text-center">
+										<p class="mb-4">
+											<span class="icon-phone d-block h2 text-primary"></span>
+											<a href="#">+1 232 3235 324</a>
+										</p>
+									</div>
+									<div class="col-md-4 text-center">
+										<p class="mb-0">
+											<span class="icon-mail_outline d-block h2 text-primary"></span>
+											<a href="#">youremail@domain.com</a>
+										</p>
+									</div>
+								</div>-->
+								<!-- * * * * * * * * * * * * * * *-->
+								<!-- * * SB Forms Contact Form * *-->
+								<!-- * * * * * * * * * * * * * * *-->
+								<!-- This form is pre-integrated with SB Forms.-->
+								<!-- To make this form functional, sign up at-->
+								<!-- https://startbootstrap.com/solution/contact-forms-->
+								<!-- to get an API token!-->
+								<div class="text-center">
+									<form id="contactForm" data-sb-form-api-token="API_TOKEN">
+										<div class="row align-items-stretch mb-5">
+											<div class="col-md-6">
+												<div class="form-group">
+													<!-- Name input-->
+													<input class="form-control" id="name" type="text" placeholder="Your Name *" data-sb-validations="required" />
+													<div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+												</div>
+												<br/>
+												<div class="form-group">
+													<!-- Email address input-->
+													<input class="form-control" id="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" />
+													<div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
+													<div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+												</div>
+												<br/>
+												<div class="form-group mb-md-0">
+													<!-- Phone number input-->
+													<input class="form-control" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />
+													<div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
+												</div>
+											</div>
+											<div class="col-md-6">
+												<div class="form-group form-group-textarea mb-md-0">
+													<!-- Message input-->
+													<textarea class="form-control" id="message"  cols = "20" rows ="6"  placeholder="Your Message *" data-sb-validations="required"></textarea>
+													<div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+												</div>
+											</div>
+										</div>
+										<!-- Submit success message-->
+										<!---->
+										<!-- This is what your users will see when the form-->
+										<!-- has successfully submitted-->
+										<div class="d-none" id="submitSuccessMessage">
+											<div class="text-center text-white mb-3">
+												<div class="fw-bolder">Form submission successful!</div>
+												You wiill have our response in a few. Ifnot, write us by WhatsApp.
+												<br />
+												<a href="https://wa.me/+2290150727558">PEPAF'S BULL</a> <em>or</em>
+												<a href="https://wa.me/+2290161646159">Pearson Empire</a> 
+											</div>
+										</div>
+										<!-- Submit error message-->
+										<!---->
+										<!-- This is what your users will see when there is-->
+										<!-- an error submitting the form-->
+										<div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
+										<!-- Submit Button-->
+										<div class="text-center">
+											<button class="btn btn-primary btn-xl text-uppercase disabled" id="submitButton" type="submit">Send Message</button>
+											<!--<div class="intro-button mx-auto"><a class="btn btn-primary btn-xl" href="abroveadjovi63.aa@gmail.com">Send Message</a></div>-->
+										</div>
+									</form>					
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="footer text-faded text-center py-5">
+            <div class="container"><p class="m-0 small">Copyright &copy; PEPAF'S BULL Website 2024</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
